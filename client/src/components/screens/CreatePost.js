@@ -50,7 +50,7 @@ const CretePost = () => {
           M.toast({ html: data.error, classes: "#c62828 red darken-3" })
         }
         else {
-          M.toast({ html: "Created post Successfully", classes: "#43a047 green darken-1" })
+          M.toast({ html: "Post created Successfully", classes: "#43a047 green darken-1" })
           history.push('/')
         }
       }).catch(err => {
