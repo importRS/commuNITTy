@@ -5,7 +5,7 @@
 <hr>
 
 
-### To Run in Devepoment Mode
+### To Run in Development Mode
 
 #### -> Installation and Initial Setup
 
